@@ -1,0 +1,26 @@
+{
+  "name": "mithril-webpack-boilerplate",
+  "description": "",
+  "main": "app.min.js",
+  "authors": [
+    "dayuoba"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "mithril",
+    "webpack"
+  ],
+  "homepage": "https://github.com/dayuoba/mithirl-webpack-boilerplate",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "material-design-icons": "2.0.0",
+    "material-design-lite": "~1.0.5"
+  }
+}
